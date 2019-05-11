@@ -1,5 +1,5 @@
-# WordCloud_Python
-Generate Wordclouds in Python - ANY SHAPE &amp; ANY TEXT (Best WordCloud Algorithm)
+# WordClouds in Python - ANY SHAPE & ANY TEXT
+## Best WordCloud Algorithm in Python
 
 ![Screenshot](https://github.com/dheerajtuteja/WordCloud_Python/blob/master/Teddy.PNG)
 
